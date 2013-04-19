@@ -1,4 +1,4 @@
-play-with-github
+play with github
 ================
 
 GitHubとやらを試してやろう
